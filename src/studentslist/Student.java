@@ -4,7 +4,8 @@ public class Student {
     private String name;
     private int id;
     private int dob;
- 
+    private int maxHrs;
+   private int maxMins;
     public Student()
     {
         name = "Not Set";
