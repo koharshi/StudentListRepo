@@ -4,6 +4,7 @@ public class Student {
     private String name;
     private int id;
     private int dob;
+    private int maxHours;
  
     public Student()
     {
